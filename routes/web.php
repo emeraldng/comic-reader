@@ -29,11 +29,11 @@ Route::get('/', function()
 
 });
 
-Route::get('/contact', function()
+Route::get('/comic-view', function()
 
 {
 
-   return View::make('pages.contact');
+   return View::make('pages.comic-view');
 
 });
 

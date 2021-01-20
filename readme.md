@@ -9,5 +9,5 @@
 El proyecto contiene webpack, que minifica los archivos de css y js
 
 1. Correr npm run watch, escucha los cambios en css y js
-2. Al mismo tiempo correr php artisan serve, dar en recargar cada que notifique el bluild successful y ver los cambios
+2. Al mismo tiempo correr php artisan serve, dar en recargar cada que notifique el build successful y ver los cambios
 

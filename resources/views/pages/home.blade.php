@@ -39,18 +39,28 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <div class="row">
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-im-1.jpg" alt=""></div>
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-sup-1.jpg" alt=""></div>
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-im-1.jpg" alt=""></div>
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-sup-1.jpg" alt=""></div>
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-im-1.jpg"
+                                alt=""></a></div>
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-sup-1.jpg"
+                                alt=""></a></div>
+
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-im-1.jpg"
+                                alt=""></a></div>
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-sup-1.jpg"
+                                alt=""></a></div>
                 </div>
             </div>
             <div class="carousel-item">
                 <div class="row">
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-im-1.jpg" alt=""></div>
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-sup-1.jpg" alt=""></div>
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-im-1.jpg" alt=""></div>
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-sup-1.jpg" alt=""></div>
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-im-1.jpg"
+                                alt=""></a></div>
+
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-sup-1.jpg"
+                                alt=""></a></div>
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-im-1.jpg"
+                                alt=""></a></div>
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-sup-1.jpg"
+                                alt=""></a></div>
                 </div>
             </div>
 
@@ -71,18 +81,26 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <div class="row">
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-im-1.jpg" alt=""></div>
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-sup-1.jpg" alt=""></div>
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-im-1.jpg" alt=""></div>
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-sup-1.jpg" alt=""></div>
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-im-1.jpg"
+                                alt=""></a></div>
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-sup-1.jpg"
+                                alt=""></a></div>
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-im-1.jpg"
+                                alt=""></a></div>
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-sup-1.jpg"
+                                alt=""></a></div>
                 </div>
             </div>
             <div class="carousel-item">
                 <div class="row">
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-im-1.jpg" alt=""></div>
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-sup-1.jpg" alt=""></div>
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-im-1.jpg" alt=""></div>
-                    <div class="col-md-3"><img class="cover_comic" src="/images/cover-sup-1.jpg" alt=""></div>
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-im-1.jpg"
+                                alt=""></a></div>
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-sup-1.jpg"
+                                alt=""></a></div>
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-im-1.jpg"
+                                alt=""></a></div>
+                    <div class="col-md-3"><a href="/comic-view"><img class="cover_comic" src="/images/cover-sup-1.jpg"
+                                alt=""></a></div>
                 </div>
             </div>
 
